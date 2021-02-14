@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptImage" id="ScriptImage1" x="-91.00000000" y="-40.00000000"
+             width="971.00000000" height="702.00000000" fileName="{PROJECT_FOLDER}sonicboomdrumsrend.png"/>
+  <Component type="ScriptFloatingTile" id="ScriptFloatingTile1" x="-44.00000000"
+             y="476.00000000" width="865.00000000" height="74.00000000" ContentType="Keyboard"
+             bgColour="15532032" itemColour="16777215" itemColour2="16722988"
+             textColour="0" Data="{&#13;&#10;  &quot;KeyWidth&quot;: 14.0,&#13;&#10;  &quot;DisplayOctaveNumber&quot;: true,&#13;&#10;  &quot;LowKey&quot;: 9,&#13;&#10;  &quot;HiKey&quot;: 127,&#13;&#10;  &quot;CustomGraphics&quot;: false,&#13;&#10;  &quot;DefaultAppearance&quot;: true,&#13;&#10;  &quot;BlackKeyRatio&quot;: 0.699999988079071,&#13;&#10;  &quot;ToggleMode&quot;: false,&#13;&#10;  &quot;MidiChannel&quot;: 1,&#13;&#10;  &quot;UseVectorGraphics&quot;: true,&#13;&#10;  &quot;UseFlatStyle&quot;: false,&#13;&#10;  &quot;MPEKeyboard&quot;: false,&#13;&#10;  &quot;MPEStartChannel&quot;: 2,&#13;&#10;  &quot;MPEEndChannel&quot;: 16&#13;&#10;}"
+             FontSize="0.00000000" itemColour3="12195607"/>
+  <Component type="ScriptButton" id="ScriptButton1" x="248.00000000" y="243.00000000"
+             width="133.00000000" height="134.00000000" text="" itemColour2="1938611"
+             itemColour="2399967" bgColour="16777215" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             radioGroup="2.00000000" isMomentary="1"/>
+  <Component type="ScriptButton" id="ScriptButton2" x="416.00000000" y="271.00000000"
+             width="130.00000000" height="131.00000000" text="" isMomentary="1"
+             bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+             filmstripImage="{PROJECT_FOLDER}transparent.png" isVertical="0"/>
+  <Component type="ScriptButton" id="ScriptButton3" x="148.00000000" y="177.00000000"
+             width="100.00000000" height="100.00000000" text="fart" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             itemColour2="16711680" itemColour="3355443" bgColour="16777215"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="ScriptButton4" x="204.00000000" y="82.00000000"
+             width="114.00000000" height="117.00000000" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="ScriptButton5" x="316.00000000" y="127.00000000"
+             width="64.00000000" height="90.00000000" isMomentary="1" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptButton" id="ScriptButton6" x="386.00000000" y="138.00000000"
+             width="100.00000000" height="100.00000000" isMomentary="1" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptButton" id="ScriptButton7" x="500.00000000" y="137.00000000"
+             width="171.00000000" height="171.00000000" isMomentary="1" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptSlider" id="ScriptSlider1" x="42.00000000" y="396.00000000"
+             width="112.00000000" height="51.00000000" text="Reverb" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" middlePosition="0.50000000"
+             processorId="Simple Reverb1" parameterId="RoomSize"/>
+  <Component type="ScriptSlider" id="ScriptSlider2" x="278.00000000" y="399.00000000"
+             width="118.00000000" height="50.00000000" text="Comp" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" max="32.00000000" min="1.00000000"/>
+  <Component type="ScriptSlider" id="ScriptSlider3" x="156.00000000" y="398.00000000"
+             width="112.00000000" height="51.00000000" text="Delay" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" mode="NormalizedPercentage"
+             suffix="%" middlePosition="0.50000000" processorId="Delay1" parameterId="Mix"/>
+  <Component type="ScriptSlider" id="ScriptSlider4" x="401.00000000" y="399.00000000"
+             width="118.00000000" height="50.00000000" text="Gain" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" max="32.00000000" min="1.00000000"
+             processorId="Simple Gain1" parameterId="Gain" mode="Decibel"/>
+  <Component type="ScriptComboBox" id="ScriptComboBox1" x="195.00000000" y="360.00000000"
+             width="95.00000000" height="30.00000000" max="5" text="Style"
+             items="Rock&#10;Jazz&#10;Fusion&#10;Metal&#10;Brushes" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" textColour="1358954495"
+             visible="0"/>
+  <Component type="ScriptComboBox" id="ScriptComboBox2" x="47.00000000" y="209.00000000"
+             width="95.00000000" height="30.00000000" max="5" text="Style"
+             items="Rock&#10;Jazz&#10;Fusion&#10;Metal&#10;Brushes" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" textColour="1358954495"
+             visible="0"/>
+  <Component type="ScriptComboBox" id="ScriptComboBox3" x="97.00000000" y="79.00000000"
+             width="95.00000000" height="30.00000000" max="5" text="Style"
+             items="Rock&#10;Jazz&#10;Fusion&#10;Metal&#10;Brushes" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" textColour="1358954495"
+             visible="0"/>
+  <Component type="ScriptComboBox" id="ScriptComboBox4" x="302.00000000" y="68.00000000"
+             width="95.00000000" height="30.00000000" max="5" text="Style"
+             items="Rock&#10;Jazz&#10;Fusion&#10;Metal&#10;Brushes" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" textColour="1358954495"
+             visible="0"/>
+  <Component type="ScriptComboBox" id="ScriptComboBox5" x="432.00000000" y="67.00000000"
+             width="95.00000000" height="30.00000000" max="5" text="Style"
+             items="Rock&#10;Jazz&#10;Fusion&#10;Metal&#10;Brushes" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" textColour="1358954495"
+             visible="0"/>
+  <Component type="ScriptComboBox" id="ScriptComboBox6" x="665.00000000" y="141.00000000"
+             width="95.00000000" height="30.00000000" max="5" text="Style"
+             items="Rock&#10;Jazz&#10;Fusion&#10;Metal&#10;Brushes" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" textColour="1358954495"
+             visible="0"/>
+  <Component type="ScriptComboBox" id="ScriptComboBox7" x="590.00000000" y="339.00000000"
+             width="95.00000000" height="30.00000000" max="5" text="Style"
+             items="Rock&#10;Jazz&#10;Fusion&#10;Metal&#10;Brushes" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" textColour="1358954495"
+             visible="0"/>
+  <Component type="ScriptFloatingTile" id="ScriptFloatingTile3" x="621.00000000"
+             y="14.00000000" width="169.00000000" height="24.00000000" ContentType="PerformanceLabel"
+             bgColour="0" itemColour="4294951115" itemColour2="4294951115"
+             Data="{&#13;&#10;}" FontSize="10.00000000" textColour="1358954495"/>
+  <Component type="ScriptComboBox" id="ScriptComboBox8" x="137.00000000" y="7.00000000"
+             width="357.00000000" height="33.00000000" text="" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215" textColour="1358954495"
+             items="fart kit&#10;jazz kit" max="2"/>
+  <Component type="ScriptButton" id="ScriptButton8" x="32.00000000" y="9.00000000"
+             width="105.00000000" height="32.00000000" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             itemColour="3355443" bgColour="16777215" itemColour2="1118481"/>
+  <Component type="ScriptFloatingTile" id="ScriptFloatingTile2" x="37.00000000"
+             y="59.00000000" width="131" height="80" ContentType="AboutPagePanel"
+             bgColour="10921638" itemColour="4294967295" itemColour2="4294951115"
+             Data="{&#13;&#10;  &quot;CopyrightNotice&quot;: &quot;0&quot;,&#13;&#10;  &quot;ShowLicensedEmail&quot;: false,&#13;&#10;  &quot;ShowVersion&quot;: true,&#13;&#10;  &quot;BuildDate&quot;: true,&#13;&#10;  &quot;WebsiteURL&quot;: &quot;1&quot;,&#13;&#10;  &quot;ShowProductName&quot;: true,&#13;&#10;  &quot;UseCustomImage&quot;: false&#13;&#10;}"
+             updateAfterInit="0" FontSize="8.00000000" Font="Microsoft JhengHei UI"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton9" x="514.00000000" y="11.00000000"
+             width="111" height="27" text="Show / Hide" itemColour2="1118481"
+             itemColour="3355443" bgColour="16777215"/>
+</ContentProperties>

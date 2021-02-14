@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="" RRGroupAmount="1.00000000" MicPositions=";">
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}A#-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}A-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}B-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}C#-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}D#-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}D-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F#-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F-1-0-39.wav" Duplicate="0"/>
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="0" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G#-1-0-39.wav" Duplicate="0"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}bassdrum-jazz.wav" Duplicate="0"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}brushsnare-jazz.wav" Duplicate="0"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="20" HiVel="80" RRGroup="1"
+          FileName="{PROJECT_FOLDER}brushsnarering-jazz.wav" Duplicate="0"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}floortomalt-jazz.wav" Duplicate="0"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}floortom-jazz.wav" Duplicate="0"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}sidestick-jazz.wav" Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}stomtom-jazz.wav" Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}tomtomring-jazz.wav" Duplicate="0"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}bassdrum-jazz.wav" Duplicate="0"/>
+</samplemap>

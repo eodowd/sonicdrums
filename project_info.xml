@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProjectSettings>
+  <Name value="Sonicdrums"/>
+  <Version value="1.0.0"/>
+  <Description value="Drums virtual instrument"/>
+  <BundleIdentifier value="com.sonicboom.product"/>
+  <PluginCode value="Abcd"/>
+  <EmbedAudioFiles value="Yes"/>
+  <SupportFullDynamicsHLAC value="No"/>
+  <AdditionalDspLibraries value=""/>
+  <OSXStaticLibs value=""/>
+  <WindowsStaticLibFolder value=""/>
+  <ExtraDefinitionsWindows value=""/>
+  <ExtraDefinitionsOSX value=""/>
+  <ExtraDefinitionsIOS value=""/>
+  <AppGroupID value=""/>
+  <RedirectSampleFolder value=""/>
+  <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
+  <SupportMonoFX value="No"/>
+  <VST3Support value="0"/>
+  <UseRawFrontend value="No"/>
+</ProjectSettings>

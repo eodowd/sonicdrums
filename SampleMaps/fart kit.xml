@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="" RRGroupAmount="1.00000000" MicPositions=";">
+  <sample Root="68" LoKey="68" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}tomtomring-jazz.wav" Duplicate="1"/>
+</samplemap>
