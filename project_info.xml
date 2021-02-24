@@ -3,7 +3,7 @@
 <ProjectSettings>
   <Name value="Sonicdrums"/>
   <Version value="1.0.0"/>
-  <Description value="Drums virtual instrument"/>
+  <Description value="A hise virtual instrument"/>
   <BundleIdentifier value="com.sonicboom.product"/>
   <PluginCode value="Abcd"/>
   <EmbedAudioFiles value="Yes"/>
@@ -11,13 +11,19 @@
   <AdditionalDspLibraries value=""/>
   <OSXStaticLibs value=""/>
   <WindowsStaticLibFolder value=""/>
-  <ExtraDefinitionsWindows value=""/>
+  <ExtraDefinitionsWindows value="HISE_NUM_PLUGIN_CHANNELS=32"/>
   <ExtraDefinitionsOSX value=""/>
   <ExtraDefinitionsIOS value=""/>
   <AppGroupID value=""/>
   <RedirectSampleFolder value=""/>
   <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
   <SupportMonoFX value="No"/>
-  <VST3Support value="0"/>
   <UseRawFrontend value="No"/>
+  <EmbedImageFiles value="Yes"/>
+  <ExtraDefinitionsLinux value=""/>
+  <EnableMidiInputFX value="No"/>
+  <VST3Support value="No"/>
+  <ExpansionType value="Disabled"/>
+  <EncryptionKey value=""/>
+  <LinkExpansionsToProject value="No"/>
 </ProjectSettings>

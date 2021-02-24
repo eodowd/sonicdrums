@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptButton" id="ScriptButton1" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton2" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton3" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton4" value="0"/>
+    <Control type="ScriptComboBox" id="ScriptComboBox1" value="2"/>
+    <Control type="ScriptComboBox" id="ScriptComboBox2" value="9"/>
+    <Control type="ScriptComboBox" id="ScriptComboBox3" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton5" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton6" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton7" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton8" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton9" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton10" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton11" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton12" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton13" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton14" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton15" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton16" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton17" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton18" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton19" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton20" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton21" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton22" value="0"/>
+    <Control type="ScriptComboBox" id="ScriptComboBox4" value="16"/>
+  </Content>
+  <MidiAutomation/>
+  <MPEData Enabled="0"/>
+</Preset>
