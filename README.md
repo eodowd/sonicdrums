@@ -5,4 +5,4 @@ A Hise virtual instrument
 
 ![myimage-alt-tag](https://raw.githubusercontent.com/eodowd/sonicdrums/main/123asd.PNG)
 
-![myimage-alt-tag](https://raw.githubusercontent.com/eodowd/sonicdrums/main/123asf.PNG)
+![myimage-alt-tag](https://raw.githubusercontent.com/eodowd/sonicdrums/main/123asdf.PNG)
