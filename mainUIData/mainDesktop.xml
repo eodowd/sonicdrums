@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptImage" id="ScriptImage1" x="0" y="0" width="1024"
+             height="768" fileName="{PROJECT_FOLDER}sonicboomdrumsbackground.png"/>
+  <Component type="ScriptImage" id="ScriptImage2" x="380" y="288" width="100"
+             height="100" fileName="{PROJECT_FOLDER}hithit.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage3" x="401" y="164" width="81"
+             height="90" fileName="{PROJECT_FOLDER}hithit.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage4" x="485" y="151" width="100"
+             height="100" fileName="{PROJECT_FOLDER}hithit.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage5" x="535" y="260" width="100"
+             height="100" fileName="{PROJECT_FOLDER}hithit.png" visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton1" x="382" y="290" width="100"
+             height="100" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="ScriptButton2" x="381" y="155" width="100"
+             height="100" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="ScriptButton3" x="477" y="153" width="100"
+             height="100" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="ScriptButton4" x="539" y="253" width="100"
+             height="100" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             isMomentary="1"/>
+  <Component type="ScriptImage" id="ScriptImage6" x="331" y="357" width="75"
+             height="72" fileName="{PROJECT_FOLDER}dropdown.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage7" x="255" y="321" width="75"
+             height="72" fileName="{PROJECT_FOLDER}dropdown.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage8" x="501" y="415" width="75"
+             height="72" fileName="{PROJECT_FOLDER}dropdown.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage9" x="489" y="284" width="75"
+             height="72" fileName="{PROJECT_FOLDER}dropdown.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage10" x="401" y="101" width="75"
+             height="72" fileName="{PROJECT_FOLDER}dropdown.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage11" x="743" y="312" width="75"
+             height="72" fileName="{PROJECT_FOLDER}dropdown.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage12" x="498" y="86" width="75"
+             height="72" fileName="{PROJECT_FOLDER}dropdown.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage13" x="265" y="92" width="75"
+             height="72" fileName="{PROJECT_FOLDER}dropdown.png" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage14" x="703" y="85" width="75"
+             height="72" fileName="{PROJECT_FOLDER}dropdown.png" popupMenuItems="fcddsafsdF&#10;sdgsdfg&#10;"
+             popupOnRightClick="0" visible="0"/>
+  <Component type="ScriptImage" id="ScriptImage15" x="120" y="233" width="243"
+             height="158" fileName="{PROJECT_FOLDER}droppanel.png" visible="0">
+    <Component type="ScriptComboBox" id="ScriptComboBox1" x="65" y="88" width="117"
+               height="35" max="2" parentComponent="ScriptImage15" itemColour2="1118481"
+               itemColour="3355443" bgColour="16777215" items="kicks&#10;snares"/>
+  </Component>
+  <Component type="ScriptImage" id="ScriptImage16" x="247" y="342" width="243"
+             height="158" fileName="{PROJECT_FOLDER}droppanel.png" visible="0">
+    <Component type="ScriptComboBox" id="ScriptComboBox2" x="65" y="89" width="113"
+               height="35" parentComponent="ScriptImage16" itemColour2="1118481"
+               itemColour="3355443" bgColour="16777215" items="10 Tom Brushes&#10;13 Snare Side&#10;13 Snare Stick&#10;Kick 1&#10;Kick Deep&#10;SMDrum Kick&#10;SMDrum Snare&#10;SMDrum Snare 1&#10;SMDrum Snare Side&#10;Snare 1&#10;Tight&#10;bassdrum&#10;ride open"
+               max="13"/>
+  </Component>
+  <Component type="ScriptImage" id="ScriptImage17" x="416" y="401" width="243"
+             height="158" fileName="{PROJECT_FOLDER}droppanel.png" visible="0">
+    <Component type="ScriptComboBox" id="ScriptComboBox3" x="64" y="90" width="117"
+               height="35" max="2" parentComponent="ScriptImage17" itemColour2="1118481"
+               itemColour="3355443" bgColour="16777215" items="kicks&#10;snares"/>
+  </Component>
+  <Component type="ScriptButton" id="ScriptButton5" x="934" y="94" width="42"
+             height="42" text="Show All" itemColour2="1118481" itemColour="3355443"
+             bgColour="16777215" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptButton" id="ScriptButton6" x="277" y="341" width="33"
+             height="35" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton7" x="356" y="384" width="24"
+             height="27" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton8" x="525" y="441" width="24"
+             height="27" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton9" x="515" y="310" width="24"
+             height="27" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton10" x="770" y="338" width="24"
+             height="27" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton11" x="728" y="110" width="24"
+             height="27" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton12" x="524" y="110" width="24"
+             height="27" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton13" x="428" y="124" width="24"
+             height="27" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton14" x="290" y="116" width="24"
+             height="27" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             visible="0"/>
+  <Component type="ScriptFloatingTile" id="ScriptFloatingTile2" x="51" y="101"
+             width="130" height="95" bgColour="0" itemColour="1493172223"
+             itemColour2="4294951115" Data="{&#13;&#10;  &quot;CopyrightNotice&quot;: &quot;0&quot;,&#13;&#10;  &quot;ShowLicensedEmail&quot;: true,&#13;&#10;  &quot;ShowVersion&quot;: true,&#13;&#10;  &quot;BuildDate&quot;: true,&#13;&#10;  &quot;WebsiteURL&quot;: &quot;1&quot;,&#13;&#10;  &quot;ShowProductName&quot;: true,&#13;&#10;  &quot;UseCustomImage&quot;: false&#13;&#10;}"
+             ContentType="AboutPagePanel" FontSize="8" textColour="1493172223"
+             visible="0"/>
+  <Component type="ScriptButton" id="ScriptButton15" x="24" y="21" width="144"
+             height="42" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptFloatingTile" id="ScriptFloatingTile3" x="-7" y="622"
+             width="1033" height="79" ContentType="Keyboard" bgColour="16777215"
+             itemColour="436207615" itemColour2="4294967295" textColour="4294951115"
+             Data="{&#13;&#10;  &quot;KeyWidth&quot;: 15,&#13;&#10;  &quot;DisplayOctaveNumber&quot;: false,&#13;&#10;  &quot;LowKey&quot;: 9,&#13;&#10;  &quot;HiKey&quot;: 127,&#13;&#10;  &quot;CustomGraphics&quot;: false,&#13;&#10;  &quot;DefaultAppearance&quot;: false,&#13;&#10;  &quot;BlackKeyRatio&quot;: 0.69999999,&#13;&#10;  &quot;ToggleMode&quot;: false,&#13;&#10;  &quot;MidiChannel&quot;: 1,&#13;&#10;  &quot;UseVectorGraphics&quot;: true,&#13;&#10;  &quot;UseFlatStyle&quot;: false,&#13;&#10;  &quot;MPEKeyboard&quot;: false,&#13;&#10;  &quot;MPEStartChannel&quot;: 2,&#13;&#10;  &quot;MPEEndChannel&quot;: 16&#13;&#10;}"/>
+  <Component type="ScriptButton" id="ScriptButton16" x="931" y="143" width="49"
+             height="44" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="ScriptButton17" x="933" y="15" width="50"
+             height="47" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptImage" id="ScriptImage18" x="14" y="67" width="997"
+             height="526" fileName="{PROJECT_FOLDER}backcover.png" visible="0">
+    <Component type="ScriptPanel" id="ScriptPanel1" x="44" y="17" width="936"
+               height="490" itemColour="0" itemColour2="0" parentComponent="ScriptImage18"
+               bgColour="16777215" textColour="16777215">
+      <Component type="ScriptFloatingTile" id="ScriptFloatingTile4" x="-13" y="16"
+                 width="931" height="470" ContentType="PresetBrowser" bgColour="0"
+                 itemColour="4280261864" itemColour2="4294967295" Data="{&#13;&#10;  &quot;ShowSaveButton&quot;: true,&#13;&#10;  &quot;ShowFolderButton&quot;: true,&#13;&#10;  &quot;ShowNotes&quot;: true,&#13;&#10;  &quot;ShowEditButtons&quot;: true,&#13;&#10;  &quot;ShowFavoriteIcon&quot;: true,&#13;&#10;  &quot;NumColumns&quot;: 3&#13;&#10;}"
+                 parentComponent="ScriptPanel1" Font="Microsoft JhengHei UI" visible="0"/>
+    </Component>
+  </Component>
+  <Component type="ScriptButton" id="ScriptButton18" x="885" y="19" width="50"
+             height="44" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptPanel" id="ScriptPanel2" x="173" y="102" width="682"
+             height="430" itemColour="3120562176" visible="0">
+    <Component type="ScriptFloatingTile" id="ScriptFloatingTile5" x="108" y="71"
+               width="474" height="422" ContentType="CustomSettings" bgColour="4278190080"
+               itemColour="4294951115" itemColour2="4294951115" Data="{&#13;&#10;  &quot;Driver&quot;: false,&#13;&#10;  &quot;Device&quot;: false,&#13;&#10;  &quot;Output&quot;: false,&#13;&#10;  &quot;BufferSize&quot;: false,&#13;&#10;  &quot;SampleRate&quot;: false,&#13;&#10;  &quot;GlobalBPM&quot;: false,&#13;&#10;  &quot;StreamingMode&quot;: false,&#13;&#10;  &quot;ScaleFactor&quot;: true,&#13;&#10;  &quot;VoiceAmountMultiplier&quot;: true,&#13;&#10;  &quot;ClearMidiCC&quot;: false,&#13;&#10;  &quot;SampleLocation&quot;: true,&#13;&#10;  &quot;DebugMode&quot;: false,&#13;&#10;  &quot;ScaleFactorList&quot;: [&#13;&#10;    0.5,&#13;&#10;    0.75,&#13;&#10;    1,&#13;&#10;    1.25,&#13;&#10;    1.5,&#13;&#10;    2&#13;&#10;  ]&#13;&#10;}"
+               parentComponent="ScriptPanel2"/>
+  </Component>
+  <Component type="ScriptButton" id="ScriptButton19" x="845" y="21" width="40"
+             height="40" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptButton" id="ScriptButton20" x="935" y="199" width="41"
+             height="45" text="Play Test Midi" itemColour2="1118481" itemColour="3355443"
+             bgColour="16777215" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptButton" id="ScriptButton21" x="845" y="16" width="44"
+             height="43" filmstripImage="{PROJECT_FOLDER}transparent.png"
+             itemColour2="4224460069" bgColour="16777041"/>
+  <Component type="ScriptButton" id="ScriptButton22" x="840" y="17" width="48"
+             height="39" filmstripImage="{PROJECT_FOLDER}transparent.png"/>
+  <Component type="ScriptImage" id="ScriptImage19" x="15" y="64" width="994"
+             height="536" fileName="{PROJECT_FOLDER}backcover.png" visible="0">
+    <Component type="ScriptImage" id="ScriptImage20" x="33" y="30" width="145"
+               height="71" fileName="{PROJECT_FOLDER}mixerpanel.png" parentComponent="ScriptImage19"/>
+    <Component type="ScriptComboBox" id="ScriptComboBox4" x="60" y="451" width="50"
+               height="28" max="25" items="1&#10;2&#10;3&#10;4&#10;5&#10;6&#10;7&#10;8&#10;9&#10;10&#10;11&#10;12&#10;13&#10;14&#10;15&#10;16&#10;17&#10;18&#10;19&#10;20&#10;21&#10;22&#10;23&#10;24&#10;25"
+               bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+               textColour="2734686207" parentComponent="ScriptImage19"/>
+  </Component>
+</ContentProperties>
